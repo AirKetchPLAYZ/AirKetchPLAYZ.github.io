@@ -1,0 +1,11 @@
+{
+    "name": "Yoshi's repo",
+    "description": "A repo for all my tweaks",
+    "tint": "90EE90",
+    "cname": "airketchplayz.github.io",
+    "maintainer": {
+        "name": "Yoshi Chill",
+        "email": "superblastermag5@gmail.com"
+    },
+    "automatic_git": "false"
+}
